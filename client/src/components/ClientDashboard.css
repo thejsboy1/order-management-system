@@ -1,0 +1,20 @@
+#slide-out {
+  margin-top: 65px;
+}
+
+.collapsible-body li {
+  padding-left: 40px;
+}
+
+.content-wrapper {
+  padding-left: 300px;
+}
+
+@media only screen and (max-width: 992px) {
+  .content-wrapper {
+    padding-left: 0;
+  }
+}
+p {
+  font-size: 1.5rem;
+}

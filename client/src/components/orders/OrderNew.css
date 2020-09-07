@@ -1,0 +1,15 @@
+.valign-wrapper {
+  height: 150px;
+  margin-top: 30px;
+  border: 1px solid #e6e1e1;
+  border-radius: 5px;
+}
+
+.valign-wrapper > h6 {
+  color: red;
+  margin-left: 50px;
+}
+
+label {
+  font-size: 1.1rem;
+}

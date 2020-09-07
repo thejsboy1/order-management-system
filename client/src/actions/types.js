@@ -1,0 +1,14 @@
+export const FETCH_USER = "FETCH_USER";
+export const FETCH_ORDERS = "FETCH_ORDERS";
+export const FETCH_TRUCKS = "FETCH_TRUCKS";
+export const FETCH_ALL_ORDERS = "FETCH_ALL_ORDERS";
+export const FETCH_CLIENTS = "FETCH_CLIENTS";
+export const FETCH_DRIVERS = "FETCH_DRIVERS";
+export const UPDATE_CLIENT = "UPATE_CLIENT";
+export const FETCH_ZONES = "FETCH_ZONES";
+export const UPDATE_DRIVER = "UPATE_DRIVER";
+export const FETCH_SCHEDULES = "FETCH_SCHEDULES";
+export const FETCH_SCHEDULE = "FETCH_SCHEDULE";
+export const UPDATE_ORDER = "UPATE_ORDER";
+export const FETCH_ORDER = "FETCH_ORDER";
+export const FETCH_METRICS = "FETCH_METRICS";
